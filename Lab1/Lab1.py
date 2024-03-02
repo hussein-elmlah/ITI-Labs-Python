@@ -140,3 +140,4 @@ def calculate_factorial(number):
 # print("Q15. Calculate factorial of a number using recursion")
 # factorial_of_5 = calculate_factorial(5)
 # print("Factorial of 5:", factorial_of_5)
+
